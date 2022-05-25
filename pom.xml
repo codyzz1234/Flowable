@@ -15,7 +15,7 @@
 	<name>FlowableIntegration</name>
 	<description>Spring Boot Integration with Flowable</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 		<flowable.version>6.6.0</flowable.version>
 	</properties>
 	<dependencies>
